@@ -11,7 +11,7 @@ This project is aimed at testing the skills I have acquired so far.
 * Twitter: @i4mCloud
 * LinkedIn: https://www.linkedin.com/in/charles-gobina-74a0ab193/
 
-:handshake: Contributions
+<span>:handshake:</span> <h3>Contributing</h3>
 Contributions, issues, and feature requests are welcome!
 
 ## Show your support
